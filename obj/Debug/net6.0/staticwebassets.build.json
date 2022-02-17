@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WUJYShmWYDgm5/8wfvYgIEqVmCtBFlwcK6otbEYgdPg=",
+  "Source": "MifacturaStoreApi",
+  "BasePath": "_content/MifacturaStoreApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
